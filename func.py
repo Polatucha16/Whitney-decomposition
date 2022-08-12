@@ -4,7 +4,7 @@ import numpy as np
 from numpy import linalg as LA
 import networkx as nx
 
-from classes import *
+from shapes import Ball, Plane
 
 # Ball - plane geometry handling:
 

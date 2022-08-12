@@ -2,7 +2,7 @@
 
 import numpy as np
 
-from classes import *
+from shapes import Ball, Plane
 
 # List of balls to avoid 
 holes = [Ball(np.array([[ 0.52, 0.63,-0.64]]), 0.7), 
