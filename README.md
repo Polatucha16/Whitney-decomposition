@@ -3,5 +3,5 @@ Jupyter project to preview a changing Whitney decomposition of an exterior of a 
 
 open balls_v1.ipynb
 
-Example output.png
+Snip from the notebook
 <img src="/Example output.png" alt="Example output"/>
