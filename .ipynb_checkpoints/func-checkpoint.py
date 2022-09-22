@@ -9,7 +9,8 @@ from shapes import Ball, Plane
 # Ball - plane geometry handling:
 
 def center_to_plane_dist(ball: Ball, plane: Plane):
-    """ Formula for distance is calculated using: |perp.ball_center - perp.plane_center|/norm(perp) 
+    """
+        formula for distance is calculated using: |perp.ball_center - perp.plane_center|/norm(perp) 
         -> perp is vector perpendicular to plane,
         -> plane_center can be any point of the plane.
     """   
